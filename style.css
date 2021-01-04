@@ -1,0 +1,27 @@
+#apps{
+    width: 100%;
+    height: 800px;
+    color: #ffffff;
+    background: linear-gradient(#ff0000 0%,#ff4800 100%);
+}
+#game{
+    width: 100%;
+    height: 800px;
+    color: #ffffff;
+    background: linear-gradient(#ff4800 0%,#ff8400 100%);
+}
+#chatbot{
+    width: 100%;
+    height: 800px;
+    color: #ffffff;
+    background: linear-gradient(#ff8400 0%,#ffff00 100%);
+}
+h1{
+    text-align: center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
